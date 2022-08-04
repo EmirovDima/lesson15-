@@ -1,0 +1,52 @@
+.body {
+  margin: 0;
+  padding: 0;
+}
+.logo {
+  font-size: 40px;
+  font-family: "Roboto Slab", serif;
+  margin-top: -300px;
+}
+.header {
+  background-image: url("3616005.jpg");
+  width: 1430px;
+  padding: 30px;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: "Merriweather", serif;
+  margin-right: 40px;
+  margin-top: 45px;
+  background-color: black;
+  height: 430px;
+  color: white;
+}
+.main-menu {
+  text-decoration: none;
+  color: black;
+  margin-right: 30px;
+  font-family: "Nunito", sans-serif;
+  margin-right: 30px;
+  margin-top: -25px;
+  color: white;
+}
+.mu {
+  text-align: center;
+}
+.men {
+  text-align: center;
+  margin-top: 110px;
+}
+.button {
+  text-decoration: none;
+  margin-top: -250px;
+  color: black;
+  border: 2px solid rgb(255, 255, 0);
+  font-size: 18px;
+  color: white;
+  margin-top: -290px;
+}
+.main-text {
+  text-align: center;
+}
